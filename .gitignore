@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+vendor/
+__pycache__/
+
+# Logs and caches
+*.log
+*.cache
+.DS_Store
+
+# Virtual environments
+.env
+.venv/
+venv/
+
+# IDE / editor files
+.idea/
+.vscode/
