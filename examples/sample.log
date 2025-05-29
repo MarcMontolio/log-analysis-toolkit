@@ -1,0 +1,5 @@
+2025-05-01T10:00:00 INFO Starting process
+2025-05-01T10:05:00 DEBUG Debugging details
+2025-05-02T12:00:00 WARNING A warning occurred
+2025-05-03T15:30:00 ERROR An error occurred
+Unformatted line without timestamp
